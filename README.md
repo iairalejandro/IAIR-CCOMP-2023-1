@@ -1,7 +1,7 @@
 # IAIR-CCOMP-2023-1
 
-# Iair - UCSP
+# Iair - Universidad Católica San Pablo
 
-# Ciencias de la Computación :o
+# Ciencias de la Computación :O
 
 se aprueba con más de 16
