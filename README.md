@@ -3,3 +3,5 @@
 # Iair - UCSP
 
 # Ciencias de la Computación :o
+
+se aprueba con más de 16
