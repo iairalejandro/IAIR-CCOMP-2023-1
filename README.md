@@ -4,4 +4,4 @@
 
 # Ciencias de la Computación :O
 
-se aprueba con más de 16
+se aprueba con más de 14
